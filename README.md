@@ -12,4 +12,5 @@ This progressbar will fill all the columns of the terminal window.
 ### Example for 10 seconds:
         ./progressbar.sh 10
 
+### Acknowledgement
 This script was inspired on the work by Edouard Lopez (https://github.com/edouard-lopez/progress-bar.sh)
