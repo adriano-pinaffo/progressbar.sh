@@ -3,6 +3,9 @@
 > Progress bar in bash by Adriano Pinaffo.
 This progressbar will fill all the columns of the terminal window.
 
+### Preview
+![progressbar.sh in action on terminal](./progressbar.gif)
+
 ### Usage:
         ./progressbar.sh [SECONDS] 
 
