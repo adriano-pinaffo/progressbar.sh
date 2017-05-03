@@ -33,7 +33,7 @@ prev_bar=
 for (( elapsed=1; elapsed<=$duration; elapsed++ ))
 do
   # Elapsed
-prev_bar=$curr_bar
+  prev_bar=$curr_bar
   let curr_bar+=$unity
   [[ $increment -eq 0 ]] || {  
     [[ $skip -eq 1 ]] &&
