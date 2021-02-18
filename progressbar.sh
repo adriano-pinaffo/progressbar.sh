@@ -5,6 +5,7 @@
 # Inspired on work by Edouard Lopez (https://github.com/edouard-lopez/progress-bar.sh)
 # Version 1.0
 # Date April, 28th 2017
+#Lara é fofinha
 
 function error {
   echo "Usage: $0 [SECONDS]"
